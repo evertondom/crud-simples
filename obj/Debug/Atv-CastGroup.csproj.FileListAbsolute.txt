@@ -1,0 +1,11 @@
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\bin\Debug\Atv-CastGroup.exe.config
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\bin\Debug\Atv-CastGroup.exe
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\bin\Debug\Atv-CastGroup.pdb
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.csproj.AssemblyReference.cache
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.csproj.SuggestedBindingRedirects.cache
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv_CastGroup.Form1.resources
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv_CastGroup.Properties.Resources.resources
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.csproj.GenerateResource.cache
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.csproj.CoreCompileInputs.cache
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.exe
+D:\Cast Group\csharpintermediario\Aula1\Atv-CastGroup\obj\Debug\Atv-CastGroup.pdb
